@@ -1,1 +1,1 @@
-!function(){"use strict";self.addEventListener("fetch",(function(e){}));[{'revision':'8f6d6fc5c7ac9231bc5bf688f63b87d8','url':'./index.html'},{'revision':null,'url':'./static/js/main.1eab1a2b.js'}]}();
+!function(){"use strict";self.addEventListener("fetch",(function(e){}));[{'revision':'24865decf08bf1b9fa298e479bb75b2a','url':'/tracker/index.html'},{'revision':null,'url':'/tracker/static/js/main.bd9d4854.js'}]}();
