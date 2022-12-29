@@ -1,0 +1,1 @@
+!function(){"use strict";self.addEventListener("fetch",(function(e){}));[{'revision':'f84d99dc58381f7911a3ce2be53ee8eb','url':'/index.html'},{'revision':null,'url':'/static/js/main.a1eee5be.js'}]}();
