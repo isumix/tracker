@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tracker/static/js/main.93c4dd58.js",
+    "main.js": "/tracker/static/js/main.c99500c0.js",
     "index.html": "/tracker/index.html",
     "service-worker.js": "/tracker/service-worker.js"
   },
   "entrypoints": [
-    "static/js/main.93c4dd58.js"
+    "static/js/main.c99500c0.js"
   ]
 }
