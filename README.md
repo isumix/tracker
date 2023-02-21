@@ -1,10 +1,23 @@
 # Tracker
 
-Time/Money Tracker Application
+### Time/Money Tracker/Analyzer Application
 
-[Application Website](https://isumix.github.io/tracker/)
+To start go to: [application website](https://isumix.github.io/tracker/)
+
+> Do you remember the old formula: time equals money? You can put it to good use in this application.
 
 ## Features
+
+Track and analyze:
+
+- time spent/gained by category
+- money spent/earned by category
+- time spent on activities and how much profit earned from those activities
+- money spent on things to gain more time
+
+> You can gain time by spending money (paying someone to do your job for example)
+
+## Technical
 
 - Works on any mobile phone, tablet or desktop computer, adaptive to any screen size.
 - Installs to home screen like native application.
@@ -13,8 +26,17 @@ Time/Money Tracker Application
 
 ## Roadmap
 
+- User interface.
+- Bulk entry edits.
+- Save filter groups (tags).
+- Analytical graphs/visualisation.
+- Move from categories to tags.
+- Multilingual support.
 - Synchronize between multiple devices.
+
+> highest priority goes from the bottom up
 
 ## Changes
 
+- Improve entry editing and cloning.
 - Recently used currencies are added to the currency picker.
