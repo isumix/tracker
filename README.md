@@ -1,6 +1,6 @@
 # Tracker
 
-### Time/Money Tracker/Analyzer Application
+## Time/Money Tracker/Analyzer Application
 
 To start go to: [application website](https://isumix.github.io/tracker/)
 
@@ -32,11 +32,13 @@ Track and analyze:
 - Analytical graphs/visualisation.
 - Move from categories to tags.
 - Multilingual support.
+- Add event entry type.
 - Synchronize between multiple devices.
 
 > highest priority goes from the bottom up
 
 ## Changes
 
+- Routing, go back button support.
 - Improve entry editing and cloning.
 - Recently used currencies are added to the currency picker.

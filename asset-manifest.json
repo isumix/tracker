@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/tracker/static/js/main.3cfcc877.js",
+    "main.css": "/tracker/static/css/main.5000b489.css",
+    "main.js": "/tracker/static/js/main.9edcc69f.js",
     "index.html": "/tracker/index.html",
     "service-worker.js": "/tracker/service-worker.js"
   },
   "entrypoints": [
-    "static/js/main.3cfcc877.js"
+    "static/css/main.5000b489.css",
+    "static/js/main.9edcc69f.js"
   ]
 }
